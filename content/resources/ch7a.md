@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 280fd0f2-5ae6-3f0b-3a3f-78ada56eada2
 resourcetype: Document
 title: ch7a.pdf
 uid: 00702878-c9cb-e3b5-48e6-b3705d8ac975

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 280fd0f2-5ae6-3f0b-3a3f-78ada56eada2
 resourcetype: Document
 title: reversibility_and_entropy.pdf
 uid: 33d7fa5d-0b40-12fc-1e0c-39c71fae92a7

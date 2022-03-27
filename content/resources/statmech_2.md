@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 280fd0f2-5ae6-3f0b-3a3f-78ada56eada2
 resourcetype: Document
 title: statmech_2.pdf
 uid: ac5f044d-2d9d-f515-2a18-3af32ea0541d

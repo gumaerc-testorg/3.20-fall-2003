@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 280fd0f2-5ae6-3f0b-3a3f-78ada56eada2
 resourcetype: Document
 title: thermal_expansion.pdf
 uid: bb1968df-c302-522b-68d6-f4df98454c35

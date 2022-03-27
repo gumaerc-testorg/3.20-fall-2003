@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 730fb542-0117-c7f8-370b-d6f9a95b6b18
 resourcetype: Document
 title: 2000_f_sold.pdf
 uid: 48ea64d9-9516-5db1-c468-6b7b9b3c8ab2

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 280fd0f2-5ae6-3f0b-3a3f-78ada56eada2
 resourcetype: Document
 title: ps5problem_2.pdf
 uid: 148ea5fb-0d31-0997-c38b-10d83800c3e0
