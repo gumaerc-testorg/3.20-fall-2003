@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/3-20-materials-at-equilibrium-sma-5111-fall-2003/245a127ef3d7870235599c6d9e3fca11_ps6.pdf
+file: /courses/3-20-materials-at-equilibrium-sma-5111-fall-2003/245a127ef3d7870235599c6d9e3fca11_ps6.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
