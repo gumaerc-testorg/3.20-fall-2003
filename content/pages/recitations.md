@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
@@ -25,7 +26,7 @@ RECITATIONS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/r2))
+({{% resource_link 412e817d-fd05-3d1a-cb48-38f671fcaa25 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +35,7 @@ RECITATIONS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/r3))
+({{% resource_link a0100135-414b-7ff0-724d-96f002f8c972 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +44,7 @@ RECITATIONS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/r4))
+({{% resource_link 0a990eb6-8674-f3f9-3cff-196ef98fcb80 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +53,7 @@ RECITATIONS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/r5))
+({{% resource_link 68bfe3a4-4811-9ace-6972-30a1aade3ccc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +62,7 @@ RECITATIONS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/r6))
+({{% resource_link 601ad8cd-d957-7889-c713-97691d8629dc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +71,7 @@ RECITATIONS
 7
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/r7))
+({{% resource_link ff1639b5-2c94-71c1-42b6-8eacca9e959b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +80,7 @@ RECITATIONS
 8
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/r8))
+({{% resource_link 130c574a-c709-bb41-04f6-45d9d2a4b141 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +89,7 @@ RECITATIONS
 9
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/r9))
+({{% resource_link a71f0af2-3398-b256-64e2-1899c4f01143 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +98,7 @@ RECITATIONS
 10
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/r10))
+({{% resource_link 5092ba04-e669-31db-6e33-133738f1b870 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,7 +107,7 @@ RECITATIONS
 11
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/r11))
+({{% resource_link 3e19cd4d-e2ca-4826-c745-3afde50c4ea9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,7 +116,7 @@ RECITATIONS
 12
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/r12))
+({{% resource_link dc158e34-2fc9-4b8c-9c96-bc0ebcb95a87 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
