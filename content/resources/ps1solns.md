@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/3-20-materials-at-equilibrium-sma-5111-fall-2003/672498cc5c456ddb48547ec4dee80169_ps1solns.pdf
+file_size: 328629
 file_type: application/pdf
 learning_resource_types:
 - Assignments
