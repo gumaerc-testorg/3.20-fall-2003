@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Thermohelp logs of student discussions to support problem sets: Statistical
   Mechanics.'
-file: /courses/3-20-materials-at-equilibrium-sma-5111-fall-2003/148ea5fb0d310997c38b10d83800c3e0_ps5problem_2.pdf
+file: /ol-ocw-studio-app/courses/3-20-materials-at-equilibrium-sma-5111-fall-2003/148ea5fb0d310997c38b10d83800c3e0_ps5problem_2.pdf
 file_size: 39085
 file_type: application/pdf
 learning_resource_types: []
