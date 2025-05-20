@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Thermohelp log of student discussions to support problem sets: Differential
   Functions.'
-file: /ol-ocw-studio-app/courses/3-20-materials-at-equilibrium-sma-5111-fall-2003/fd8b52fbacb4eaccc1eb7c041a250eba_duel.pdf
+file: /courses/3-20-materials-at-equilibrium-sma-5111-fall-2003/fd8b52fbacb4eaccc1eb7c041a250eba_duel.pdf
 file_size: 15003
 file_type: application/pdf
 learning_resource_types: []
