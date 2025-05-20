@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/3-20-materials-at-equilibrium-sma-5111-fall-2003/245a127ef3d7870235599c6d9e3fca11_ps6.pdf
+file: /courses/3-20-materials-at-equilibrium-sma-5111-fall-2003/245a127ef3d7870235599c6d9e3fca11_ps6.pdf
 file_size: 37713
 file_type: application/pdf
 learning_resource_types:
