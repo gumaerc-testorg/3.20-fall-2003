@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Thermohelp logs of student discussions to support problem sets.
-file: /courses/3-20-materials-at-equilibrium-sma-5111-fall-2003/ee795bb59338b845c25cae2bd0ea6b59_statmech_1.pdf
+file: /ol-ocw-studio-app/courses/3-20-materials-at-equilibrium-sma-5111-fall-2003/ee795bb59338b845c25cae2bd0ea6b59_statmech_1.pdf
 file_size: 17522
 file_type: application/pdf
 learning_resource_types: []
