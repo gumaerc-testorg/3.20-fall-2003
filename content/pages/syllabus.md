@@ -119,7 +119,7 @@ Academic Honesty
 
 Cheating is strongly discouraged. Trust me, if you knew the consequences you wouldn't even think about it.
 
-MIT's academic honesty policy can be found at [MIT Policies and Procedures](http://policies-procedures.mit.edu/).
+MIT's academic honesty policy can be found at {{% resource_link "612e8654-457a-45a3-a0d6-fdebfa2fdf7e" "MIT Policies and Procedures" %}}.
 
 Other Interesting References
 ----------------------------
